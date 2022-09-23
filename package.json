@@ -1,0 +1,24 @@
+{
+  "name": "restapiapp",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangkai99/restapiapp.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "yangkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangkai99/restapiapp/issues"
+  },
+  "homepage": "https://github.com/yangkai99/restapiapp#readme"
+}
